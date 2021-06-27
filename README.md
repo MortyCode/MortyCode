@@ -3,6 +3,11 @@
  I am **Morty Bu Lu Lu Lu** !!!    🖐🖐🖐🖐🖐
 
 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
+
+
+[![](https://raw.githubusercontent.com/MortyCode/image/master/JetBrains.png)]() [jetbrains plugin](https://plugins.jetbrains.com/author/1de3a924-ba06-4c2a-a324-72928c2ece99)
+[![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)]()[blog](https://www.rcode.top/)
+
 ---
 ### I learned
 [![](https://raw.githubusercontent.com/MortyCode/image/master/java.png)]() 
