@@ -9,7 +9,7 @@
 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)]()[blog](https://www.rcode.top/)
 
 ---
-### I learned
+### I often use
 [![](https://raw.githubusercontent.com/MortyCode/image/master/java.png)]() 
 [![](https://raw.githubusercontent.com/MortyCode/image/master/maven.png)]()
 [![](https://raw.githubusercontent.com/MortyCode/image/master/mq.png)]()
