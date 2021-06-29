@@ -9,7 +9,7 @@
 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)](https://www.rcode.top)[blog](https://www.rcode.top/)
 
 ---
-### I often use
+### I often use 👇
 [![](https://raw.githubusercontent.com/MortyCode/image/master/java.png)](https://www.java.com/) 
 [![](https://raw.githubusercontent.com/MortyCode/image/master/maven.png)](https://maven.apache.org/)
 [![](https://raw.githubusercontent.com/MortyCode/image/master/mq.png)](https://github.com/MortyCode/HsMq)
@@ -23,7 +23,7 @@
 [![](https://raw.githubusercontent.com/MortyCode/image/master/react.png)](https://reactjs.org/)
 
 
-### I Like
+### I Like 👇
 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/dzq.png)]()
 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/dy.png)]()
 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/hb.png)]()
