@@ -1,10 +1,10 @@
-# Hello! Coder
 
- I am **Morty Bu Lu Lu Lu** !!!    🖐🖐🖐🖐🖐
+ <img src="https://raw.githubusercontent.com/MortyCode/image/master/hello.png"  height="80" width="240">
  
- 🦄️🦄️🦄️🦄️🦄️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️🧚‍♀️
+ 🤔 I am **Morty Bu Lu Lu Lu** !!!    🖐
 
-**My Blog** 👉👉👉👉👉👉👉 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)](https://www.rcode.top)[RCode](https://www.rcode.top/)
+
+**This is My Blog** 👉👉👉👉👉👉👉 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)](https://www.rcode.top)[RCode](https://www.rcode.top/)
 
 ---
 ### I often use 👇
