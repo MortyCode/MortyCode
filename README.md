@@ -6,7 +6,7 @@
 
 # **This is My Blog** 👉👉👉 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)](https://www.rcode.top)[Rick Code](https://www.rcode.top/)[![](https://raw.githubusercontent.com/MortyCode/image/master/blog/morty.png)](https://www.rcode.top)👈👈👈
 
-## **My JianShu **  👉👉👉 [河 神](https://www.jianshu.com/u/40227ed13cdc)
+## **My JianShu**  👉👉👉 [河 神](https://www.jianshu.com/u/40227ed13cdc)
 
 ### I often use 👇
 [![](https://raw.githubusercontent.com/MortyCode/image/master/java.png)](https://www.java.com/) 
