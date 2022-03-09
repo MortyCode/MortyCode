@@ -1,8 +1,6 @@
 
  <img src="https://raw.githubusercontent.com/MortyCode/image/master/hello2.png"  height="80" width="240">
  
-## 😄 I am **Morty Bu Lu Lu Lu** !!!    🖐
-
 
 # **This is My Blog** 👉👉👉 [![](https://raw.githubusercontent.com/MortyCode/image/master/like/rick.png)](https://www.rcode.top)[Rick Code](https://www.rcode.top/)[![](https://raw.githubusercontent.com/MortyCode/image/master/blog/morty.png)](https://www.rcode.top)👈👈👈
 
